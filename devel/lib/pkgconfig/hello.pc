@@ -1,0 +1,8 @@
+prefix=/home/wyh/catkin_ws01/devel
+
+Name: hello
+Description: Description of hello
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
